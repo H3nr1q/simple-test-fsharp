@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+RlbhD/s96VjWe0ThdBeZBPOc0WU5HzXEHEDLZqAw76NClM+9l8nZYyUrMH57iFUFtTH/kqAQhAOFIe6W9mGQ==",
+  "success": true,
+  "projectFilePath": "c:\\Fsharp\\testes\\Math\\Math.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casa\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

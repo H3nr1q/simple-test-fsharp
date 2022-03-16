@@ -1,0 +1,10 @@
+C:\Fsharp\testes\Math\bin\Debug\net5.0\Math.deps.json
+C:\Fsharp\testes\Math\bin\Debug\net5.0\Math.dll
+C:\Fsharp\testes\Math\bin\Debug\net5.0\Math.pdb
+C:\Fsharp\testes\Math\bin\Debug\net5.0\Math.xml
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.fsproj.AssemblyReference.cache
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.AssemblyInfo.fs
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.dll
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.xml
+C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.pdb
