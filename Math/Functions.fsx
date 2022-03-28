@@ -40,16 +40,15 @@ namespace LanguageReview
         func5 (6,7)           
 
 
-        let qtdePct = 10
-        let qtdePctAv = 20
+        let qtdePct instituicao = 10
+        let qtdePctAv instituicao = 20
         let qtdeUtilizada = 10
-
-        let total qtdePct qtdePctAv = qtdePct + qtdePctAv
+        let instituicao = "i"
+        
+        let limite  = (fun qtdePct qtdePctAv -> qtdePct instituicao + qtdePctAv instituicao) qtdePct qtdePctAv
+        let quantidade = (fun qtde -> qtde) qtdeUtilizada
 
         let bloqueio =
-            let limite = (fun qtdePct qtdePctAv -> qtdePct + qtdePctAv) qtdePct qtdePctAv
-            let quantidade = (fun qtde -> qtde) qtdeUtilizada
-
             if quantidade > limite then "bloqueado" else "Liberado"
 
 

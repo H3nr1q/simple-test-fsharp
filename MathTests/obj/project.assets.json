@@ -8,53 +8,60 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
-      "FSharp.Core/5.0.0": {
+      "FSharp.Core/6.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/FSharp.Core.dll": {}
+          "lib/netstandard2.1/FSharp.Core.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/FSharp.Core.dll": {}
+          "lib/netstandard2.1/FSharp.Core.dll": {}
         },
         "resource": {
-          "lib/netstandard2.0/cs/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
             "locale": "cs"
           },
-          "lib/netstandard2.0/de/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
             "locale": "de"
           },
-          "lib/netstandard2.0/es/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
             "locale": "es"
           },
-          "lib/netstandard2.0/fr/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
             "locale": "fr"
           },
-          "lib/netstandard2.0/it/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
             "locale": "it"
           },
-          "lib/netstandard2.0/ja/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
             "locale": "ja"
           },
-          "lib/netstandard2.0/ko/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
             "locale": "ko"
           },
-          "lib/netstandard2.0/pl/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
             "locale": "pl"
           },
-          "lib/netstandard2.0/pt-BR/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/netstandard2.0/ru/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
             "locale": "ru"
           },
-          "lib/netstandard2.0/tr/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
             "locale": "tr"
           },
-          "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll": {
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
             "locale": "zh-Hant"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
           }
         }
       },
@@ -1723,10 +1730,7 @@
       },
       "Math/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "FSharp.Core": "5.0.0"
-        },
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/Math.dll": {}
         },
@@ -1788,15 +1792,17 @@
         "coverlet.collector.nuspec"
       ]
     },
-    "FSharp.Core/5.0.0": {
-      "sha512": "iHoYXA0VaSQUONGENB1aVafjDDZDZpwu39MtaRCTrmwFW/cTcK0b2yKNVYneFHJMc3ChtsSoM9lNtJ1dYXkHfA==",
+    "FSharp.Core/6.0.2": {
+      "sha512": "8GZqv6buY71KQlWT+cl2eMi+aNX9xQ61RgI3Pzv9zPxPOX6tWCLRrBj0MYQ3h871r2RhiHUl7f0AXUD/POr8eA==",
       "type": "package",
-      "path": "fsharp.core/5.0.0",
+      "path": "fsharp.core/6.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "fsharp.core.5.0.0.nupkg.sha512",
+        "contentFiles/any/netstandard2.0/FSharp.Core.xml",
+        "contentFiles/any/netstandard2.1/FSharp.Core.xml",
+        "fsharp.core.6.0.2.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/netstandard2.0/FSharp.Core.dll",
         "lib/netstandard2.0/FSharp.Core.xml",
@@ -1812,7 +1818,22 @@
         "lib/netstandard2.0/ru/FSharp.Core.resources.dll",
         "lib/netstandard2.0/tr/FSharp.Core.resources.dll",
         "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
-        "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll"
+        "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/FSharp.Core.dll",
+        "lib/netstandard2.1/FSharp.Core.xml",
+        "lib/netstandard2.1/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll"
       ]
     },
     "Microsoft.CodeCoverage/16.9.4": {
@@ -6005,7 +6026,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "FSharp.Core >= 5.0.0",
+      "FSharp.Core >= 6.0.2",
       "Math >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "coverlet.collector >= 3.0.2",
@@ -6014,19 +6035,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Casa\\.nuget\\packages\\": {}
+    "C:\\Users\\carlos.henrique\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj",
+      "projectUniqueName": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj",
       "projectName": "MathTests",
-      "projectPath": "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj",
-      "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-      "outputPath": "c:\\Fsharp\\testes\\MathTests\\obj\\",
+      "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj",
+      "packagesPath": "C:\\Users\\carlos.henrique\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlos.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6040,8 +6065,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Fsharp\\testes\\Math\\Math.fsproj": {
-              "projectPath": "c:\\Fsharp\\testes\\Math\\Math.fsproj"
+            "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj": {
+              "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj"
             }
           }
         }
@@ -6054,7 +6079,7 @@
           "FSharp.Core": {
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[5.0.0, )",
+            "version": "[6.0.2, )",
             "generatePathProperty": true
           },
           "Microsoft.NET.Test.Sdk": {
@@ -6097,8 +6122,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Math is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Math supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Math",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

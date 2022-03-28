@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj": {}
+    "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj": {}
   },
   "projects": {
-    "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj": {
+    "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj",
+        "projectUniqueName": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj",
         "projectName": "MathTests",
-        "projectPath": "c:\\Fsharp\\testes\\MathTests\\MathTests.fsproj",
-        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "c:\\Fsharp\\testes\\MathTests\\obj\\",
+        "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\MathTests.fsproj",
+        "packagesPath": "C:\\Users\\carlos.henrique\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\MathTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Fsharp\\testes\\Math\\Math.fsproj": {
-                "projectPath": "c:\\Fsharp\\testes\\Math\\Math.fsproj"
+              "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj": {
+                "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj"
               }
             }
           }
@@ -42,7 +45,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[5.0.0, )",
+              "version": "[6.0.2, )",
               "generatePathProperty": true
             },
             "Microsoft.NET.Test.Sdk": {
@@ -85,45 +88,52 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Fsharp\\testes\\Math\\Math.fsproj": {
+    "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Fsharp\\testes\\Math\\Math.fsproj",
+        "projectUniqueName": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj",
         "projectName": "Math",
-        "projectPath": "c:\\Fsharp\\testes\\Math\\Math.fsproj",
-        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "c:\\Fsharp\\testes\\Math\\obj\\",
+        "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj",
+        "packagesPath": "C:\\Users\\carlos.henrique\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\StringLibrary.csproj"
+              }
+            }
           }
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[5.0.0, )",
+              "version": "[6.0.2, )",
               "generatePathProperty": true
             }
           },
@@ -142,7 +152,64 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\StringLibrary.csproj",
+        "packagesPath": "C:\\Users\\carlos.henrique\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\StringLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\carlos.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

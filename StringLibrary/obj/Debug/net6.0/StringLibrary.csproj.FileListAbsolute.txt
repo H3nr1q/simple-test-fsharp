@@ -1,0 +1,12 @@
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll

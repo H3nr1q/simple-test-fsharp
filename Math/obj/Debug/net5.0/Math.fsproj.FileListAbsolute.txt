@@ -8,3 +8,9 @@ C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.AssemblyInfo.fs
 C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.dll
 C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.xml
 C:\Fsharp\testes\Math\obj\Debug\net5.0\Math.pdb
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.fsproj.AssemblyReference.cache
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.AssemblyInfo.fs
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.dll
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.xml
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net5.0\Math.pdb

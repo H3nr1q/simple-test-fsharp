@@ -112,3 +112,5 @@ C:\Fsharp\testes\MathTests\bin\Debug\net5.0\CoverletSourceRootsMapping
 C:\Fsharp\testes\MathTests\bin\Debug\net5.0\Math.dll
 C:\Fsharp\testes\MathTests\bin\Debug\net5.0\Math.pdb
 C:\Fsharp\testes\MathTests\bin\Debug\net5.0\Math.xml
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\MathTests\obj\Debug\net5.0\MathTests.dll
+c:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\MathTests\obj\Debug\net5.0\MathTests.pdb

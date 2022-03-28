@@ -1,0 +1,13 @@
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.fsproj.AssemblyReference.cache
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.AssemblyInfo.fs
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\Math.deps.json
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\Math.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\Math.pdb
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\Math.xml
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.fsproj.CopyComplete
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.dll
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.xml
+C:\Users\carlos.henrique\Documents\Treino\simple-test-fsharp\Math\obj\Debug\net6.0\Math.pdb

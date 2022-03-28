@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W+RlbhD/s96VjWe0ThdBeZBPOc0WU5HzXEHEDLZqAw76NClM+9l8nZYyUrMH57iFUFtTH/kqAQhAOFIe6W9mGQ==",
+  "dgSpecHash": "d/fcwzLY1GXqxUO1LHyUQLZQVllfJ6XIuYwYYkfXcv7IFpO/zQZyDO/vao9dRyCDTSBfoG89EoT7hYywMxLc7w==",
   "success": true,
-  "projectFilePath": "c:\\Fsharp\\testes\\Math\\Math.fsproj",
+  "projectFilePath": "C:\\Users\\carlos.henrique\\Documents\\Treino\\simple-test-fsharp\\Math\\Math.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Casa\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\carlos.henrique\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
   ],
   "logs": []
 }
